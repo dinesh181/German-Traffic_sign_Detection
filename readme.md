@@ -185,7 +185,7 @@ output/trafficsignnet_v2.keras
 
 ---
 
-## 6. Run the final product
+## 6. Run the final product - it can be used directly without training, the above training steps are for reference 
 
 The final end-to-end pipeline uses the trained detector and classifier.
 
