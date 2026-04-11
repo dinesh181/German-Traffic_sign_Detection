@@ -118,6 +118,10 @@ pip install ultralytics tensorflow opencv-python numpy pandas scikit-learn pillo
 ### Detector dataset: GTSDB
 
 Prepare the dataset in YOLO format under:
+link to download dataset 
+o	GTSRB -  https://benchmark.ini.rub.de/gtsrb_dataset.html
+o	GTSDB -  https://benchmark.ini.rub.de/gtsdb_dataset.html
+
 
 ```text
 data/gtsdb_yolo/
