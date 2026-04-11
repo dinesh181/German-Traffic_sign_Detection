@@ -84,7 +84,7 @@ German_trafic_signs_Detection/
 ### Step 1: Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone <GITHUB_REPO_URL>
 cd German_trafic_signs_Detection
 ```
 
